@@ -1,0 +1,19 @@
+Git Befehle:
+----------------------------------------------------------------------------------------
+
+init: Initaliesiert ein neues Git Repo
+config: Damit können globale Einstellungen gemacht werden.
+clone: Kopiert ein Repo von der Webseite auf den Lokalen PC
+add: Fügt neue Datein und änderungen hinzu und danach können sie commitet werden.
+rm: Löscht Datein
+commit: Hinzugefügte Datein werden kommitet, mit -m kann eine Nachricht hinzugefügt werden.
+remote: Damit können Verbindungen mit anderen Repos erstellt und bearbeitet werden.
+push: Die kommiteten Datein werden Hochgeladen.
+pull: Der aktuelle Status wird heruntergeladen.
+status: Damit kann der Status des Lokalen Repos angesehen werden.
+diff: Vergleicht veränderunge miteinander
+reset: Damit können veränderunge Zurückgesetzt werden.
+log: Damit kann man sich die Letzten commits anschauen.
+branch: Ein neuer Branch kann erstellt werden
+checkout: Damit kann auf einen anderen Branch gewechselt werden.
+merge: zwei Branches können zusammengeführt werden.
